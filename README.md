@@ -1,7 +1,7 @@
 #### Hello, I'm Michael!
 
 <p>
-  <a href="https://bestofjs.org/"><img align="right" src="https://bestofjs.org/images/logo.png"></a>
+  <a href="https://bestofjs.org/"><img align="right" src="https://bestofjs.org/logo.png"></a>
 </p>
 
 I'm the creator of [Best of JS](https://bestofjs.org/), a web application that gathers the best of JavaScript and friends: TypeScript, CSS, HTML, Node.js...
